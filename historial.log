@@ -1,3 +1,9 @@
+commit c91e87a72eedbbd56993108a09f0467bea986279
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Wed Jul 29 18:39:04 2015 -0500
+
+    [ MASTER-historial.log ] Agregue archivo para historial de cambios y herramienta de posibles restauraciones atraves del tiempo del proyecto
+
 commit 60fc282171d3e2a6622b0be7757dd010be61e386
 Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
 Date:   Wed Jul 29 18:35:59 2015 -0500
