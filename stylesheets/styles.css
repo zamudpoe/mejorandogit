@@ -1,6 +1,21 @@
+/*
+    *********  RAMA EXPERIMENTAL *************
+    Rama creada para actualizar solo el diseño 
+    de la pagina index.html atraves del archivo 
+    de estilos styles.css
+    
+    Creada por: 
+        Ing. Engelbert Zamudio Ponzzi;
+    e-mail: 
+        engel_zamudio@icloud.com
+    
+    Fecha de creacion: 29/07/2015;
+
+*/
+
 body
 {
- background: rgb(22, 21, 20);
+ background: rgb(24, 28, 78);
  font-size: 16px;
 }
 
@@ -62,7 +77,8 @@ h3
 
 header.sidebar
 {
-  background-color: #EEEEEE;
+  background-color:  rgb(24, 28, 78);
+  /*background-color: #EEEEEE;*/
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -74,6 +90,10 @@ header.sidebar
 
 section.sidebar_information
 {
+  color: white;
+}
+
+h1.sidebar_information_title{
   color: white;
 }
 
@@ -135,7 +155,8 @@ text-align: center;
 
 div.nombre p
 {
-  color: rgb(255, 255, 255)
+/*  color: rgb(255, 255, 255); */
+    color: yellow;
 }
 
 div.layout-principal
