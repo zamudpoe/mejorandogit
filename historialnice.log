@@ -1,6 +1,12 @@
-* 2c159ee [ MASTER-index.html ] actualizando historial de commits y agregando historial de RAMAS y FUSIONES en archivo historialnice.log
-* 6cb35b1 [ MASTER-index.html ] Agregue link de Twitter
+*   bb27260 [ MASTER|MERGIN - historial.log] Se actualizo el historial
+|\  
+| * adbcff4 [ EXPERIMENTAL-styles.css ] Se Actualizo el color del nombre debajo de la foto a color BLANCO TECHO
+| * e2f3fde [ EXPERIMENTAL-historiallog.log ] Se actualizo el archivo historialnice.log
+| * 54c965c [ EXPERIMENTAL-styles.css ] Se modifico el color del sidebar ddel header al mismo color del body que es color azul opacon, como tambien se agrego el archivo historialnice.log
 | * f6e3624 [ EXPERIMENTAL-sylesheets/styles.cs ] Cambie color de fondo a color : Azul opacon
+* | 0b00e19 [ MASTER-index.html ] se actualizo la seccion de social media.
+* | 2c159ee [ MASTER-index.html ] actualizando historial de commits y agregando historial de RAMAS y FUSIONES en archivo historialnice.log
+* | 6cb35b1 [ MASTER-index.html ] Agregue link de Twitter
 |/  
 * 13039f2 [ MASTER-historial.log ] Agregue cambiso al archivo.
 * c91e87a [ MASTER-historial.log ] Agregue archivo para historial de cambios y herramienta de posibles restauraciones atraves del tiempo del proyecto
