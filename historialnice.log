@@ -1,0 +1,9 @@
+* 2c159ee [ MASTER-index.html ] actualizando historial de commits y agregando historial de RAMAS y FUSIONES en archivo historialnice.log
+* 6cb35b1 [ MASTER-index.html ] Agregue link de Twitter
+| * f6e3624 [ EXPERIMENTAL-sylesheets/styles.cs ] Cambie color de fondo a color : Azul opacon
+|/  
+* 13039f2 [ MASTER-historial.log ] Agregue cambiso al archivo.
+* c91e87a [ MASTER-historial.log ] Agregue archivo para historial de cambios y herramienta de posibles restauraciones atraves del tiempo del proyecto
+* 60fc282 [ MASTER-index.html ] Agregue link de facebook para dicha seccion de Social Media
+* 48ee972 [ MASTER-index.html ] actualice mi nombre y foto de perfil
+* 0e24990 MASTER - Primer commit con el proyecto en estado inicial
