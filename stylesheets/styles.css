@@ -93,6 +93,10 @@ section.sidebar_information
   color: white;
 }
 
+h1.sidebar_information_title{
+  color: white;
+}
+
 div.sidebar_userimage
 {
   cursor: pointer;
@@ -151,7 +155,8 @@ text-align: center;
 
 div.nombre p
 {
-  color: rgb(255, 255, 255)
+/*  color: rgb(255, 255, 255); */
+    color: yellow;
 }
 
 div.layout-principal
