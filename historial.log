@@ -1,3 +1,21 @@
+commit f65f2777c1ad546221c702ab015021414d7ae1d2
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 04:24:28 2015 -0500
+
+    [ MASTER-gitignore_global ] se actualizo gitignore_global
+
+commit 8e59c67dfd48f63d61a10d02ad73f87409dc5fa9
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 04:18:30 2015 -0500
+
+    [ MASTER- .gitignore ] gitignore listo
+
+commit 88109325f341695137aaf987b346c8c966f65b6f
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 04:09:36 2015 -0500
+
+    [ MASTER-HISTORIALES ] Se agregaron los archivos para administracion del historial de cambios (es importante guardar los hash id o commit id)
+
 commit b0ac090abfa07155879e5a0136511c1b1c092a51
 Merge: add990e 02f3793
 Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
