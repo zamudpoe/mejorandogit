@@ -26,7 +26,7 @@ a
 
 ul
 {
-  margin: 45% 0 0% 0%;
+  margin: 40% 0 0% 0%;
 }
 
 ul li
@@ -70,7 +70,7 @@ h3
   font-size: 30px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
-  color: #FFF7F7;
+  color: #2B7344;
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
@@ -156,7 +156,7 @@ div.nombre
 div.nombre p
 {
 /*  color: rgb(255, 255, 255); */
-    color: green;
+    color: #2B7344;
 }
 
 div.layout-principal
@@ -178,6 +178,6 @@ div.bloque
 div.bloque p
 {
 /*  color: rgb(255, 255, 255); */
-  color: yellow;
+  color: #EFF6F7;
   line-height: 1.9em;
 }
