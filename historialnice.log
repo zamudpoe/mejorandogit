@@ -1,5 +1,34 @@
-*   bb27260 [ MASTER|MERGIN - historial.log] Se actualizo el historial
+*   b0ac090 Merge branch 'bbackground'
 |\  
+| * 02f3793 [BBACKGROUND-styles.css] cambio de fondo a color NEGRO'
+* |   add990e Merge branch 'fjob'
+|\ \  
+| |/  
+| * cfa9758 [FJOB-styles.css] Resuelto la fuente en tamano
+* | aa2ff71 [ MASTER-styles.css ] Margen arreglado
+|/  
+*   6a47cf7 [ MASTER|MERGING ] FUSION ejecutada. Combinacion con avatar
+|\  
+| * a670691 Avatar nuevo de pelicula de Batman vs superman
+* | 8852cee [ MASTER-index.log ] Actualice a Avatar BOFH
+|/  
+*   2f7aa48 Merge branch 'font'
+|\  
+| * a7bf42e [ FONT-styles.css ] Modifique el tamano de la fuente a 18px de h1
+| * 24ffc0b [ FONT-styles.css ] Modifique el tamano de la fuente de los titulos de 13 a 30px
+* | ce4e7e4 [ MASTER-index.html ] Se actualizo elemento parrafo con cita de Nietzche
+* | f77d15f [ MASTER-index.html ] se actualizo datos de portafolio
+|/  
+* af5923b [MASTER-historial.log] se actualizo cambios pequeños
+*   9e193e5 Merge branch 'experimental'
+|\  
+| * aa4466e [ EXPERIMENTAL-styles.css ] Actualice color de Social media a color verde
+| * 2a36467 [ EXPERIMENTAL-styles.css ] Actualice el color de nombre de tus sitios y tu descripcion
+* | a5dbcca [ MASTER-index.html ] Agregue la clase socialmedia y el id sm
+* | fc58894 [ MASTER-historialnice.log ] Se actualizo el historialnice.log con la fusion de la rama EXPERIMENTAL a MASTER
+* |   bb27260 [ MASTER|MERGIN - historial.log] Se actualizo el historial
+|\ \  
+| |/  
 | * adbcff4 [ EXPERIMENTAL-styles.css ] Se Actualizo el color del nombre debajo de la foto a color BLANCO TECHO
 | * e2f3fde [ EXPERIMENTAL-historiallog.log ] Se actualizo el archivo historialnice.log
 | * 54c965c [ EXPERIMENTAL-styles.css ] Se modifico el color del sidebar ddel header al mismo color del body que es color azul opacon, como tambien se agrego el archivo historialnice.log

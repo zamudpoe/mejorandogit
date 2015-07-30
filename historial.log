@@ -1,3 +1,91 @@
+commit b0ac090abfa07155879e5a0136511c1b1c092a51
+Merge: add990e 02f3793
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 02:03:20 2015 -0500
+
+    Merge branch 'bbackground'
+
+commit add990e9cbe7db888a5be9d85b4d02a82e9286bf
+Merge: aa2ff71 cfa9758
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 02:00:39 2015 -0500
+
+    Merge branch 'fjob'
+
+commit aa2ff7147218d3c2559c2b1a6c5b62af0402912f
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 01:58:45 2015 -0500
+
+    [ MASTER-styles.css ] Margen arreglado
+
+commit 02f37931af8c6c12d5c4feecf2a9bd1e5eb0bdab
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 01:47:12 2015 -0500
+
+    [BBACKGROUND-styles.css] cambio de fondo a color NEGRO'
+
+commit cfa9758f8ac5f44d4c3eaf6516080016c547622e
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 01:42:18 2015 -0500
+
+    [FJOB-styles.css] Resuelto la fuente en tamano
+
+commit 6a47cf72f2009c5482c81b5553f42b44ffc7003b
+Merge: 8852cee a670691
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 01:32:06 2015 -0500
+
+    [ MASTER|MERGING ] FUSION ejecutada. Combinacion con avatar
+
+commit 8852ceeedfb8b0f7c0789eb161665fc05ff9dd65
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 01:18:19 2015 -0500
+
+    [ MASTER-index.log ] Actualice a Avatar BOFH
+
+commit a670691442ffe2b99a81ad65ef9b4802011c798a
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 00:50:03 2015 -0500
+
+    Avatar nuevo de pelicula de Batman vs superman
+
+commit 2f7aa48a826ce49c4f48159a92dc171453e80990
+Merge: ce4e7e4 a7bf42e
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 00:43:22 2015 -0500
+
+    Merge branch 'font'
+
+commit ce4e7e4158085a829860883aed9153ff522d0c6b
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 00:41:13 2015 -0500
+
+    [ MASTER-index.html ] Se actualizo elemento parrafo con cita de Nietzche
+
+commit f77d15fe795d5f88facb6b64ad6eae4a086916d4
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 00:38:33 2015 -0500
+
+    [ MASTER-index.html ] se actualizo datos de portafolio
+
+commit a7bf42e5866f39cb68a0e502db620e34ad5ebce0
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 00:34:37 2015 -0500
+
+    [ FONT-styles.css ] Modifique el tamano de la fuente a 18px de h1
+
+commit 24ffc0b969ae7ca5021c18ae355a25b3869b8ffb
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Thu Jul 30 00:13:54 2015 -0500
+
+    [ FONT-styles.css ] Modifique el tamano de la fuente de los titulos de 13 a 30px
+
+commit af5923b5a92c3132a538cc6478a9309328bd210c
+Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
+Date:   Wed Jul 29 23:52:29 2015 -0500
+
+    [MASTER-historial.log] se actualizo cambios pequeños
+
 commit 9e193e57be5760246fffc13f82d1a0bbfb7d28cd
 Merge: a5dbcca aa4466e
 Author: Ing. Engelbert Zamudio Ponzzi <engel_zamudio@icloud.com>
