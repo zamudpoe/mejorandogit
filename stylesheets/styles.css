@@ -56,7 +56,7 @@ h1
 {
   padding-bottom: 2em;
   border-bottom: none;
-  font-size: 16px;
+  font-size: 18px;
   margin: 0;
   padding: 5px 0 .3em;
   line-height: 32px;
@@ -67,7 +67,7 @@ h1
 h3
 {
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 30px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
   color: #FFF7F7;
