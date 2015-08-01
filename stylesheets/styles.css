@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
     *********  RAMA EXPERIMENTAL *************
     Rama creada para actualizar solo el diseño 
@@ -17,6 +18,12 @@ body
 {
  background: #EF840E;
  font-size: 18px;
+=======
+body
+{
+ background: rgb(22, 21, 20);
+ font-size: 16px;
+>>>>>>> origin/master
 }
 
 a
@@ -26,7 +33,11 @@ a
 
 ul
 {
+<<<<<<< HEAD
   margin: 25% 0 0% 0%;
+=======
+  margin: 20% 0 0% 0%;
+>>>>>>> origin/master
 }
 
 ul li
@@ -43,7 +54,11 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
+<<<<<<< HEAD
   background: #EF840E;
+=======
+  background: #E94016;
+>>>>>>> origin/master
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
@@ -56,7 +71,11 @@ h1
 {
   padding-bottom: 2em;
   border-bottom: none;
+<<<<<<< HEAD
   font-size: 13px;
+=======
+  font-size: 16px;
+>>>>>>> origin/master
   margin: 0;
   padding: 5px 0 .3em;
   line-height: 32px;
@@ -67,18 +86,29 @@ h1
 h3
 {
   text-transform: uppercase;
+<<<<<<< HEAD
   font-size: 30px;
   line-height: 32px;
   border-bottom: 1px #eee solid;
   color: #2B7344;
+=======
+  font-size: 13px;
+  line-height: 32px;
+  border-bottom: 1px #eee solid;
+  color: #FFF7F7;
+>>>>>>> origin/master
   margin-bottom: 2.5em;
   padding-bottom: .5em;
 }
 
 header.sidebar
 {
+<<<<<<< HEAD
   background-color:  rgb(43, 115, 68);
   /*background-color: #EEEEEE;*/
+=======
+  background-color: #EEEEEE;
+>>>>>>> origin/master
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -93,10 +123,13 @@ section.sidebar_information
   color: white;
 }
 
+<<<<<<< HEAD
 h1.sidebar_information_title{
   color: white;
 }
 
+=======
+>>>>>>> origin/master
 div.sidebar_userimage
 {
   cursor: pointer;
@@ -121,7 +154,11 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
+<<<<<<< HEAD
   background: #EF840E;
+=======
+  background: black;
+>>>>>>> origin/master
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
@@ -145,18 +182,31 @@ div.logo img
 
 div.nombre
 {
+<<<<<<< HEAD
     display: inline-block;
     vertical-align: top;
     padding: 0;
     margin: 0% 33%;
     font-size: 27px;
     text-align: center;
+=======
+display: inline-block;
+vertical-align: top;
+padding: 0;
+margin: 0% 33%;
+font-size: 15px;
+text-align: center;
+>>>>>>> origin/master
 }
 
 div.nombre p
 {
+<<<<<<< HEAD
 /*  color: rgb(255, 255, 255); */
     color: #2B7344;
+=======
+  color: rgb(255, 255, 255)
+>>>>>>> origin/master
 }
 
 div.layout-principal
@@ -177,7 +227,11 @@ div.bloque
 
 div.bloque p
 {
+<<<<<<< HEAD
 /*  color: rgb(255, 255, 255); */
   color: #EFF6F7;
+=======
+  color: rgb(255, 255, 255);
+>>>>>>> origin/master
   line-height: 1.9em;
 }
